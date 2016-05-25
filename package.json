@@ -1,5 +1,5 @@
 {
-  "name": "silly-cli",
+  "name": "@dasilvacontin/silly-cli",
   "version": "1.0.0",
   "description": "For testing npm scoped packages.",
   "main": "index.js",
