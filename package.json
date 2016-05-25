@@ -1,0 +1,22 @@
+{
+  "name": "silly-cli",
+  "version": "1.0.0",
+  "description": "For testing npm scoped packages.",
+  "main": "index.js",
+  "bin": {
+    "silly-cli": "./silly-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasilvacontin/silly-cli.git"
+  },
+  "author": "David da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasilvacontin/silly-cli/issues"
+  },
+  "homepage": "https://github.com/dasilvacontin/silly-cli#readme"
+}
